@@ -34,6 +34,13 @@ Visual bar charts were created to highlight performance metrics, such as:
 - Scoring efficiency and headed goals
 
 ![Players average goals](players_average_goals.png)
+![Teams_average goals](teams_average_goals.png)
+![Players shooting precision](players_shooting_precision.png)
+![Teams shooting precision](teams_shooting_precision.png)
+![Players scoring efficiency](players_scoring_efficiency.png)
+![Teams scoring efficiency](teams_scoring_efficiency.png)
+![Players headed goals](players_headed_goals.png)
+![Teams headed goals](teams_headed_goals.png)
 
 ## Author
 Oscar Medina 
