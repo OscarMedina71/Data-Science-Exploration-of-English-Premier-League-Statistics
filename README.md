@@ -42,6 +42,11 @@ Visual bar charts were created to highlight performance metrics, such as:
 ![Players headed goals](players_headed_goals.png)
 ![Teams headed goals](teams_headed_goals.png)
 
+
+## Data
+https://www.premierleague.com/en
+
+
 ## Author
 Oscar Medina 
 
